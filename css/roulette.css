@@ -1,0 +1,47 @@
+#roulette_gif{
+	width:1400px;
+	height:800px;
+}
+
+#roulette_gif:hover{
+    cursor:pointer;
+}
+
+#roulette_board{
+	width:1400px;
+	height:800px;
+	background-color:green;
+	border-radius:8px;
+	border:2px solid gray; 
+	position: relative;
+}
+
+#roulette_pointer{
+    position: absolute;
+	left:650px;
+	top:10px;
+}
+
+#roulette_body{
+	position: absolute;
+	left:400px;
+	top:80px;
+}
+
+#playroulette{
+	position: absolute;
+	left:540px;
+	bottom:30px;
+}
+
+#roulette_img{
+	position: absolute;
+	left:120px;
+	top:230px;
+}
+
+#closeroulettebtn{
+	position: absolute;
+	left:900px;
+	bottom:30px;
+}
